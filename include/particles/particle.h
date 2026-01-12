@@ -6,4 +6,6 @@ struct Particle {
     double m;
 
     void advance(double dt);
+    double kinetic_energy() const;
+
 };
