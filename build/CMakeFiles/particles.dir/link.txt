@@ -1,0 +1,2 @@
+C:/msys64/ucrt64/bin/ar.exe qc libparticles.a CMakeFiles/particles.dir/src/particles/particle.cpp.obj
+C:/msys64/ucrt64/bin/ranlib.exe libparticles.a

@@ -1,0 +1,4 @@
+C:/Users/SamWi/Hell/Plasma-Physics-Sim/build/CMakeFiles/particles.dir
+C:/Users/SamWi/Hell/Plasma-Physics-Sim/build/CMakeFiles/plasma.dir
+C:/Users/SamWi/Hell/Plasma-Physics-Sim/build/CMakeFiles/edit_cache.dir
+C:/Users/SamWi/Hell/Plasma-Physics-Sim/build/CMakeFiles/rebuild_cache.dir

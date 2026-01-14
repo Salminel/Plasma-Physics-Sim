@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/SamWi/Hell/Plasma-Physics-Sim/build",
+  "command": "C:/msys64/ucrt64/bin/g++.exe  @CMakeFiles/particles.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles/particles.dir/src/particles/particle.cpp.obj -c C:/Users/SamWi/Hell/Plasma-Physics-Sim/src/particles/particle.cpp",
+  "file": "C:/Users/SamWi/Hell/Plasma-Physics-Sim/src/particles/particle.cpp"
+},
+{
+  "directory": "C:/Users/SamWi/Hell/Plasma-Physics-Sim/build",
+  "command": "C:/msys64/ucrt64/bin/g++.exe  @CMakeFiles/plasma.dir/includes_CXX.rsp -g -std=gnu++2a -o CMakeFiles/plasma.dir/src/main.cpp.obj -c C:/Users/SamWi/Hell/Plasma-Physics-Sim/src/main.cpp",
+  "file": "C:/Users/SamWi/Hell/Plasma-Physics-Sim/src/main.cpp"
+}
+]
