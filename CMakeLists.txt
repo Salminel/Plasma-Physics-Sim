@@ -15,3 +15,18 @@ add_executable(plasma
 )
 
 target_link_libraries(plasma particles)
+
+enable_testing()
+
+add_executable(test_particle_motion
+    test/test_particle_motion.cpp
+)
+target_link_libraries(test_particle_motion particles)
+add_test(NAME ParticleMotion COMMAND test_particle_motion)
+
+
+add_executable(test_leapfrog
+    test/test_leapfrog_energy.cpp
+)
+target_link_libraries(test_leapfrog particles)
+add_test(NAME LeapfrogEnergy COMMAND test_leapfrog)
